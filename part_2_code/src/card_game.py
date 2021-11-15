@@ -27,3 +27,13 @@ def cards_total(self, cards):
   for card in cards:
     total += card.value
     return "You have a total of" + total
+
+
+# Task 1: Static Testing
+  # line 11: = should be ==
+  # line 13: else is missing :
+  # line 17: dif not def
+  # line 17: parameters missing , between car1 and card 2
+  # line 18: if is not indented
+  # line 19: should return card1
+  # line 26: total should be assigned to 0
