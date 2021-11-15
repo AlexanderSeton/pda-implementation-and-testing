@@ -45,8 +45,3 @@ class CardGame:
   # line 29: return needs to be outdented
   # line 29: must make the int total a string 
   # line 25 - line 29: whole function needs to be indented
-
-
-
-
-
